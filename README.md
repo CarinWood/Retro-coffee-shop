@@ -54,6 +54,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 </details>
 
-Visit the page here: 
+Visit the page here: https://caffe-retro.vercel.app/
 
-<img src="./src/assets/images/screenshot.png" alt="screenshot" width="600" height="250"/>
+<img src="./src/assets/images/screenshot.png" alt="screenshot" width="900" height="250"/>
