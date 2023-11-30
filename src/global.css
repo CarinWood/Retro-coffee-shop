@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  @apply bg-black m-0 p-0;
+}
+
+.font-poiret-one {
+  font-family: 'Poiret One', sans-serif;
+}
+
+.font-spirax {
+  font-family: 'Spirax', sans-serif;
+}
