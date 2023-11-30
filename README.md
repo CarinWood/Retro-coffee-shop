@@ -56,4 +56,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Visit the page here: https://caffe-retro.vercel.app/
 
-<img src="./src/assets/images/screenshot.png" alt="screenshot" width="900" height="250"/>
+<img src="./src/assets/images/screenshot.png" alt="screenshot" width="900"/>
